@@ -1,0 +1,12 @@
+package mx.x10.aptech.letsmodreboot.item;
+
+import mx.x10.aptech.letsmodreboot.creativetab.CreativeTabLMR;
+
+public class ItemObsStick extends ItemLMR {
+	
+	public ItemObsStick() {
+		super();
+		this.setUnlocalizedName("obsStick");
+	}
+	
+}

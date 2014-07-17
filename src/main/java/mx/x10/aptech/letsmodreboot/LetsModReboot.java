@@ -1,6 +1,8 @@
 package mx.x10.aptech.letsmodreboot;
 
 import mx.x10.aptech.letsmodreboot.handler.ConfigurationHandler;
+import mx.x10.aptech.letsmodreboot.init.ModBlocks;
+import mx.x10.aptech.letsmodreboot.init.ModItems;
 import mx.x10.aptech.letsmodreboot.proxy.IProxy;
 import mx.x10.aptech.letsmodreboot.reference.Reference;
 import mx.x10.aptech.letsmodreboot.utility.LogHelper;
@@ -24,6 +26,9 @@ public class LetsModReboot {
 	public void preInit(FMLPreInitializationEvent event) { // Items and Blocks
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+		
+		ModItems.init();
+		ModBlocks.init();
 		
 		LogHelper.info("Pre Initialization Complete");
 	}

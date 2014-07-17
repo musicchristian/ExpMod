@@ -2,8 +2,24 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.EventHandler"/>
-<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.proxy.reference.Reference"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.configuration.ConfigurationHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent.OnConfigChangedEvent"/>
+<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.handler.ConfigurationHandler"/>
 <fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
+<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.proxy.reference.Reference"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.ConfigElement"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Level"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLLog"/>
+<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.utility.LogHelper"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IIconRegister"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.init.ModBlocks"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry.ObjectHolder"/>
+<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.reference.Reference"/>
+<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.init.ModItems"/>
+<fullyQualifiedTypeName name="mx.x10.aptech.letsmodreboot.creativetab.CreativeTabLMR"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,14 @@
+package mx.x10.aptech.letsmodreboot.init;
+
+import mx.x10.aptech.letsmodreboot.item.ItemLMR;
+import mx.x10.aptech.letsmodreboot.item.ItemObsStick;
+
+public class ModItems {
+	
+	public static final ItemLMR itemObsStick = new ItemObsStick();
+	
+	public static void init() {
+		
+	}
+	
+}

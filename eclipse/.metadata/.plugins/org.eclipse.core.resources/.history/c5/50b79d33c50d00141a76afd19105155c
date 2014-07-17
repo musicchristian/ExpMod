@@ -1,0 +1,26 @@
+package mx.x10.aptech.letsmodreboot.block;
+
+import mx.x10.aptech.letsmodreboot.reference.Reference;
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockLMR extends Block {
+	
+	public BlockLMR(Material material) {
+		super(material);
+	}
+	
+	public BlockLMR() {
+		this(Material.rock);
+	}
+	
+	@Override
+	public String getUnlocalizedName() {
+		return String.format("item.%s:%s", Reference.MOD_ID.toLowerCase(), getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+	}
+	
+	protected String getUnwrappedUnlocalizedName(String unlocalizedName) {
+		return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
+	}
+	
+}

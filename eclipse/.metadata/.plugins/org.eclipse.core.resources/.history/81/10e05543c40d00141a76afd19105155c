@@ -1,0 +1,12 @@
+package mx.x10.aptech.letsmodreboot.block;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockLMR extends Block {
+	
+	public BlockLMR(Material material) {
+		super(material);
+	}
+	
+}

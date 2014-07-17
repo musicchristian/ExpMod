@@ -1,0 +1,7 @@
+package mx.x10.aptech.letsmodreboot.block;
+
+import net.minecraft.block.Block;
+
+public class BlockLMR extends Block {
+	
+}

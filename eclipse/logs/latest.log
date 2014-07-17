@@ -1,12 +1,48 @@
-[05:14:10] [main/INFO]: Setting user: ForgeDevName
-[05:14:15] [Client thread/INFO]: LWJGL Version: 2.9.1
-[05:14:18] [Client thread/ERROR]: Couldn't initialize twitch stream
-[05:14:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Reboot
-[05:14:53] [Sound Library Loader/INFO]: Sound engine started
-[05:14:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[05:14:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[05:14:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Reboot
-[05:14:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[05:14:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[05:14:57] [Sound Library Loader/INFO]: Sound engine started
-[05:16:36] [Client thread/INFO]: Stopping!
+[11:01:39] [main/INFO]: Logging in with username & password
+[11:01:54] [main/INFO]: Setting user: technicalman
+[11:02:00] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:02:24] [Client thread/ERROR]: Couldn't initialize twitch stream
+[11:03:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Reboot
+[11:03:39] [Sound Library Loader/INFO]: Sound engine started
+[11:03:51] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:03:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:03:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Reboot
+[11:03:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:03:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:03:54] [Sound Library Loader/INFO]: Sound engine started
+[11:04:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:04:02] [Server thread/INFO]: Generating keypair
+[11:04:03] [Server thread/INFO]: Preparing start region for level 0
+[11:04:04] [Server thread/INFO]: Preparing spawn area: 39%
+[11:04:05] [Server thread/INFO]: Preparing spawn area: 47%
+[11:04:06] [Server thread/INFO]: Preparing spawn area: 74%
+[11:04:07] [Server thread/INFO]: Changing view distance to 2, from 10
+[11:04:25] [Server thread/INFO]: Stopping server
+[11:04:25] [Server thread/INFO]: Saving players
+[11:04:25] [Server thread/INFO]: Saving worlds
+[11:04:25] [Server thread/INFO]: Saving chunks for level 'Dev World'/Overworld
+[11:04:25] [Server thread/INFO]: Saving chunks for level 'Dev World'/Nether
+[11:04:25] [Server thread/INFO]: Saving chunks for level 'Dev World'/The End
+[11:04:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:04:26] [Server thread/INFO]: Generating keypair
+[11:04:26] [Server thread/INFO]: Preparing start region for level 0
+[11:04:27] [Server thread/INFO]: Changing view distance to 2, from 10
+[11:04:29] [Server thread/INFO]: technicalman[local:E:a0f762bc] logged in with entity id 496 at (435.5, 4.0, -2015.5)
+[11:04:29] [Server thread/INFO]: technicalman joined the game
+[11:04:38] [Server thread/INFO]: Saving and pausing game...
+[11:04:38] [Server thread/INFO]: Saving chunks for level 'Dev World'/Overworld
+[11:04:38] [Server thread/INFO]: Saving chunks for level 'Dev World'/Nether
+[11:04:38] [Server thread/INFO]: Saving chunks for level 'Dev World'/The End
+[11:05:21] [Server thread/INFO]: technicalman has just earned the achievement [Taking Inventory]
+[11:05:21] [Client thread/INFO]: [CHAT] technicalman has just earned the achievement [Taking Inventory]
+[11:06:45] [Server thread/INFO]: Saving and pausing game...
+[11:06:45] [Server thread/INFO]: Saving chunks for level 'Dev World'/Overworld
+[11:06:45] [Server thread/INFO]: Saving chunks for level 'Dev World'/Nether
+[11:06:45] [Server thread/INFO]: Saving chunks for level 'Dev World'/The End
+[11:06:46] [Server thread/INFO]: Stopping server
+[11:06:46] [Server thread/INFO]: Saving players
+[11:06:46] [Server thread/INFO]: Saving worlds
+[11:06:46] [Server thread/INFO]: Saving chunks for level 'Dev World'/Overworld
+[11:06:46] [Server thread/INFO]: Saving chunks for level 'Dev World'/Nether
+[11:06:46] [Server thread/INFO]: Saving chunks for level 'Dev World'/The End
+[11:06:54] [Client thread/INFO]: Stopping!

@@ -1,0 +1,9 @@
+package mx.x10.aptech.letsmodreboot.item;
+
+public class ItemObsStick extends ItemLMR {
+	
+	public ItemObsStick() {
+		super();
+	}
+	
+}

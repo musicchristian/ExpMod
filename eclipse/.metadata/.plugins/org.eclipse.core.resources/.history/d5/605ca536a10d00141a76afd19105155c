@@ -1,0 +1,20 @@
+package mx.x10.aptech.letsmodreboot.item;
+
+import net.minecraft.item.Item;
+
+public class ItemLMR extends Item {
+	
+	public ItemLMR() {
+		super();
+	}
+	
+	@Override
+	public String getunlocalizedName() {
+		return String.format("item.%s%s", );
+	}
+	
+	protected String getunwrappedUnlocalizedName(String unlocalizedName) {
+		return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
+	}
+	
+}

@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item value="0" key="sort"/>
+		<item value="false" key="allPersp"/>
+		<list key="bounds">
+			<item value="492"/>
+			<item value="11"/>
+			<item value="948"/>
+			<item value="639"/>
+		</list>
+		<list key="columns">
+			<item value="306"/>
+			<item value="612"/>
+		</list>
+	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="894" key="dialogWidth"/>
 		<item value="556" key="dialogHeight"/>
@@ -15,5 +29,16 @@
 	<section name="WorkbenchPreferenceDialogSettings">
 		<item value="1" key="DIALOG_Y_ORIGIN"/>
 		<item value="-159" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="378" key="DIALOG_WIDTH"/>
+		<item value="com.google.eclipse.terminal.local.localTerminalView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="143" key="DIALOG_Y_ORIGIN"/>
+		<item value="442" key="DIALOG_HEIGHT"/>
+		<item value="166" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+		</list>
 	</section>
 </section>
