@@ -1,3 +1,4 @@
+MemberFilterActionGroup.org.eclipse.jdt.ui.JavaOutlinePage.4=true
 cleanup.add_default_serial_version_id=true
 cleanup.add_generated_serial_version_id=false
 cleanup.add_missing_annotations=true
@@ -57,6 +58,7 @@ cleanup.use_this_for_non_static_method_access_only_if_necessary=true
 cleanup.use_type_arguments=false
 cleanup_profile=_Custom
 cleanup_settings_version=2
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
 content_assist_number_of_computers=13
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=51,51,51
