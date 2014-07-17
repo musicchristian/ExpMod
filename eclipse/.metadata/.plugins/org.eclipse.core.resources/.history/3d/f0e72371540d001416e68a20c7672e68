@@ -1,0 +1,5 @@
+package mx.x10.aptech.letsmodreboot.configuration;
+
+public class ConfigurationHandler {
+	
+}

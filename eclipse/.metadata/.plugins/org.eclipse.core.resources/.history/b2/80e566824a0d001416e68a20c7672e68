@@ -1,0 +1,14 @@
+package mx.x10.aptech.letsmodreboot;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+
+@Mod(modid = "letsmodreboot", name = "Let's Mod Reboot", version = "1.7.10-1.0")
+public class LetsModReboot {
+	
+	@EventHandler
+	public void preinit() {
+		
+	}
+	
+}

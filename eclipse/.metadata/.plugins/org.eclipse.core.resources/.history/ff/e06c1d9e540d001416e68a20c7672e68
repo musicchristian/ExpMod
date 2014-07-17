@@ -1,0 +1,11 @@
+package mx.x10.aptech.letsmodreboot.configuration;
+
+import java.io.File;
+
+public class ConfigurationHandler {
+	
+	public static void init(File configFile) {
+		
+	}
+	
+}

@@ -1,0 +1,21 @@
+[
+{
+  "modid": "letsmodreboot",
+  "name": "Let's Mod Reboot",
+  "description": "Tutorial and Experimentation mod",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Christian Seibold <technicalman>"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+  ]
+}
+]
